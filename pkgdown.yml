@@ -1,0 +1,10 @@
+pandoc: 2.7.3
+pkgdown: 1.5.1
+pkgdown_sha: ~
+articles:
+  efficiency: efficiency.html
+  plain_text: plain_text.html
+  version_control: version_control.html
+  workflow: workflow.html
+last_built: 2020-08-19T17:04Z
+
